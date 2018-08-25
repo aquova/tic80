@@ -1,0 +1,4 @@
+*.png
+.ignore
+*.swp
+.vscode
